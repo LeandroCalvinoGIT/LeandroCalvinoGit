@@ -18,9 +18,9 @@
 - 📊 Scripts en Python
 
 ### 🚀 Actualmente aprendiendo
-- JavaScript para Web
-- Frameworks Frontend
-- Backend básico (Node.js)
+- Python para Data analytics
+- JAVA
+- Backend básico
 
 ### 📫 Contacto
 - LinkedIn: www.linkedin.com/in/leandro-calvino
