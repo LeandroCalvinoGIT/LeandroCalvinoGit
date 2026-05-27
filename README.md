@@ -10,7 +10,7 @@
 - C / C++
 - Python
 - SQL básico
-- Haskell, Prolog, Wollok
+- Haskell, Prolog
 
 ### 📂 Proyectos destacados
 - 🌐 Invitación web interactiva (HTML, CSS, JS, Integración con google sheets).
